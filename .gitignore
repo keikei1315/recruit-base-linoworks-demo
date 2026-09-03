@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+.DS_Store
+Thumbs.db
+PRODUCTION_NOTES.md
+GIT_PUBLISH.md
+assets/photo-sources.txt
+work/
